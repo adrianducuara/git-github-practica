@@ -1,8 +1,10 @@
 ## Cuestionario
 
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué? 
-    - He utilizado el comando git reset —hard HEAD~1, porque quiere que me 
-deshaga el ultimo cambio por eso le decimos HEAD~1 baja 1 commit anterior 
+    - He utilizado el comando git reset —hard HEAD ~ 1, porque quiere que 
+me 
+deshaga el ultimo cambio por eso le decimos HEAD ~ 1 baja 1 commit 
+anterior 
 y —hard para que este mismo efecto se haga en el working directory.
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
     - Entonces para rehacer el último commit el que acabamos de deshacer, 
